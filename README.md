@@ -1,5 +1,4 @@
 # Simeowlation
-
 ### Link to the game: [Simeowlation Game](https://mahin-mac568.github.io/Simeowlation/)
 
 ## Credits
