@@ -13,3 +13,5 @@
 #### Explosion Sounds - [MGWSoundDesign](https://assetstore.unity.com/packages/audio/sound-fx/grenade-sound-fx-147490)
 
 #### Collectible Sound - [THE_bizniss](https://freesound.org/people/RunnerPack/sounds/87044/)
+
+#### Victory Music- [Tuudurt](https://freesound.org/people/Tuudurt/sounds/258142/)
