@@ -12,4 +12,4 @@
 
 #### Explosion Sounds - [MGWSoundDesign](https://assetstore.unity.com/packages/audio/sound-fx/grenade-sound-fx-147490)
 
-#### Collectible Sound - [InspectorJ Sound Effects](https://assetstore.unity.com/packages/audio/sound-fx/ui-mechanical-free-sample-pack-148704)
+#### Collectible Sound - [THE_bizniss](https://freesound.org/people/RunnerPack/sounds/87044/)
