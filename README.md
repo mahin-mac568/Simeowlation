@@ -6,7 +6,7 @@
 
 #### Narrative Design & Music- [Devin Clara](https://devinclara.itch.io/)
 
-#### Art- [Letícia Rodrigues](be.net/celestial_brushes/) & [Nohl](koalafiedart@gmail.com)
+#### Art- [Letícia Rodrigues](https://be.net/celestial_brushes/) & [Nohl](koalafiedart@gmail.com)
 
 #### Explosions-
 
