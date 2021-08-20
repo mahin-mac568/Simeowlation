@@ -1,5 +1,7 @@
 # Simeowlation
 
+### Link to the game: [Simeowlation Game](https://mahin-mac568.github.io/Simeowlation/)
+
 ## Credits
 
 #### Programming & Game Design - Mahin Chowdhury & Leonardo Leyva
