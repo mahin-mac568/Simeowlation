@@ -2,7 +2,7 @@
 
 ## Credits
 
-#### Programming & Game Design - Mahin Chowdhury & Leonardo Leyva
+#### Programming & Game Design - [Mahin Chowdhury](https://github.com/mahin-mac568?tab=repositories) & Leonardo Leyva
 
 #### Narrative Design & Music - [Devin Clara](https://devinclara.itch.io/)
 
