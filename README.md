@@ -1,4 +1,4 @@
-# Simeowlation [(Click Here)](https://mahin-mac568.github.io/Simeowlation/)
+# Simeowlation [(Click Here To Play)](https://mahin-mac568.github.io/Simeowlation/)
 
 ## Credits
 
